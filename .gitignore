@@ -1,0 +1,9 @@
+# Course slides (not ours to publish)
+*.pdf
+# Working files
+tarea.md
+.ipynb_checkpoints/
+~$*
+*.xlsx
+
+img/
